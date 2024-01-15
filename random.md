@@ -5,13 +5,16 @@
 [Link](http://google.com)
 ![Image]([http://url/a.png](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png)
 > Blockquote
+
 * List
 * List
 * List
+
 1. One
 2. Two
 3. Three
-4. Horizontal rule:
+
+Horizontal rule:
 
 ---
 `Inline code` with backticks
