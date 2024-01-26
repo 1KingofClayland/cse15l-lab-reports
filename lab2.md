@@ -1,4 +1,5 @@
 **Part 1**
+
 Code:
 ```
 import java.io.IOException;
@@ -31,7 +32,9 @@ class ChatServer{
 Output:
 
 **Part 2**
+
 Output:
 
 **Part 3**
+
 During the labs in week 2 and week 3 I learned about creating web servers and learning how to run them. I learned the backend of creating web servers through creating java classes that take in the URL link and are able to execute functions/commands through taking in the path and query. I also learned about running web servers through creating a port for the server to run on.
