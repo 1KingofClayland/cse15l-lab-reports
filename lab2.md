@@ -37,12 +37,12 @@ class ChatServer{
 
 Output:
 ![Image](lab2/lab2p1.jpg)
-    Methods in my code that are called are `main` method in `ChatServer` class and `handleRequest` method in `ChatSeverHandler` class.
+    Methods in my code that are called are `main` method in `ChatServer` class and `handleRequest` method in `ChatServerHandler` class.
     The argument given to `main` is the port number 4000 which is assigned to the field `port`. The argument given to `handleRequest` is the String "s=hello&user=clayl". Fields found in `handleRequest` are `messages` (a list that holds all the messages given to the web server), `parameters` (a list that holds the queries after splitting the String argument), `message` (String which puts the message in terms of user: message), and `output` (a String that holds all the messages in `messages`).
     All fields do not change after being initialized, except `messages` which gets String "clayl: hello" appended to it and `output` which gets changed from being an empty String to being one that holds "clayl: hello".
 
 ![Image](lab2/lab2p2.jpg)
-    Methods in my code that are called are `main` method in `ChatServer` class and `handleRequest` method in `ChatSeverHandler` class.
+    Methods in my code that are called are `main` method in `ChatServer` class and `handleRequest` method in `ChatServerHandler` class.
     The argument given to `main` is the port number 4000 which is assigned to the field `port`. The argument given to `handleRequest` is the String "s=hello,clayl&user=clayl2". 
     All fields do not change from the previous output, except `messages` which gets String "clayl2: hello,clayl" appended to it and `output` which gets changed from being an empty String to being one that holds "clayl: hello\nclayl2: hello,clayl\n".
 
