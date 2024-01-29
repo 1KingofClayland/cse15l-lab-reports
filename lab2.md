@@ -7,12 +7,18 @@ import java.net.URI;
 import java.util.ArrayList;
 
 class ChatServerHandler implements URLHandler{
-    String handleRequest(URI url){
+    ArrayList<String> messages = new ArrayList<String>();
+    public String handleRequest(URI url) {
         if (url.getPath().equals("/add-message")){
             String[] parameters = url.getQuery().split("&");
-            String output = parameters[1].substring(2)+": "+parameters[0].substring(5)+"\n";
-            return output;
+            String message = parameters[1].substring(2)+": "+parameters[0].substring(5)+"\n";
+            messages.add(message);
         }
+        String output = "";
+        for (String m:messages){
+            output += m+"\n";
+        }
+        return output;
     }
 }
 class ChatServer{
