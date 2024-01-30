@@ -50,6 +50,8 @@ Output:
 **Part 2**
 
 Output:
+![Image](lab2/lab2p3.jpg)
+![Image](lab2/lab2p4.jpg)
 
 **Part 3**
 
