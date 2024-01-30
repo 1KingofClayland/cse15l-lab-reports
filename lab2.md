@@ -50,8 +50,18 @@ Output:
 **Part 2**
 
 Output:
+
+Private Key:
+
 ![Image](lab2/lab2p3.jpg)
+
+Public Key:
+
 ![Image](lab2/lab2p4.jpg)
+
+Terminal Interaction:
+
+![Image](lab2/lab2p5.jpg)
 
 **Part 3**
 
