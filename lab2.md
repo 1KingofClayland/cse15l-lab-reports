@@ -55,14 +55,17 @@ Output:
 Output:
 
 Private Key:
+The absolute path to the private key for SSH key for logging into ieng6 (on my computer)
 
 ![Image](lab2/lab2p3.jpg)
 
 Public Key:
+The absolute path to the public key for the SSH key for logging into ieng6
 
 ![Image](lab2/lab2p4.jpg)
 
 Terminal Interaction:
+A terminal interaction where I log into my ieng6 account without being asked for a password.
 
 ![Image](lab2/lab2p5.jpg)
 
