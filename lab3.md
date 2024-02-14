@@ -55,30 +55,30 @@ Command: `find`
 
 Command-Line Argument 1: `-name`
 
-![Image](lab3p3.jpg)
+![Image](lab3/lab3p3.jpg)
 
 `-name` is used to help find any files/directories that matches the argument given which if useful if we need to find a specific file/directory.
 
 Command-Line Argument 1: `-size`
 
-![Image](lab3p4.jpg)
+![Image](lab3/lab3p4.jpg)
 
-![Image](lab3p5.jpg)
+![Image](lab3/lab3p5.jpg)
 
 `size` is used in order to find files that meet the minimum or maximum character requirement. This can be useful if we want to find files that contain a certain number of characters to find the smaller files and larger files within a directory.
 
 Command-Line Argument 1: `-maxdepth`
 
-![Image](lab3p6.jpg)
+![Image](lab3/lab3p6.jpg)
 
-![Image](lab3p7.jpg)
+![Image](lab3/lab3p7.jpg)
 
 `-maxdepth` is used to find any files/directories with a maximum search depth. This can help to prevent the find command from searching too deep into a directory which will reduce search runtime.
 
 Command-Line Argument 1: `-mindepth`
 
-![Image](lab3p8.jpg)
+![Image](lab3/lab3p8.jpg)
 
-![Image](lab3p9.jpg)
+![Image](lab3/lab3p9.jpg)
 
 `-mindepth` is the opposite of `-maxdepth` and is used to find any files/directories with a minimum search depth. This is best used if we want to find a file/directory that is buried within multiple directories.
