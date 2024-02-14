@@ -21,10 +21,12 @@ public void testReverseInPlace() {
 ```
 
 Symptom: Before
-![Image] (lab3/lab3p1.jpg)
+
+![Image](lab3/lab3p1.jpg)
 
 Symptom: After
-![Image] (lab3/lab3p2.jpg)
+
+![Image](lab3/lab3p2.jpg)
 
 Bug: Before
 ```
