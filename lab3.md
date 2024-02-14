@@ -1,6 +1,6 @@
 **Part 1**
 
-An input that does induce a failure
+Failure Inducing Input:
 ```
 @Test 
 public void testReverseInPlace() {
@@ -10,7 +10,7 @@ public void testReverseInPlace() {
 }
 ```
 
-An input that doesn't induce a failure
+Non-failure Inducing Input:
 ```
 @Test 
 public void testReverseInPlace() {
@@ -20,7 +20,11 @@ public void testReverseInPlace() {
 }
 ```
 
-The symptom, as the output of running the tests
+Symptom: Before
+![Image] (lab3/lab3p1.jpg)
+
+Symptom: After
+![Image] (lab3/lab3p2.jpg)
 
 Bug: Before
 ```
