@@ -38,13 +38,13 @@ Moves cursor to the end of the file.
 
 ![Image](lab4/lab4p7.jpg)
 
-Keys Pressed: <up><up><up><up><up><up><e><x>
+Keys Pressed: <up><up><up><up><up><up>, "e", "x"
 
 Moving cursor up to the correct line number, then moving to the end of the first word "index1". Finally deleting the last character "1".
 
 ![Image](lab4/lab4p8.jpg)
 
-Keys Pressed: <i><2><esc>
+Keys Pressed: "i", "2", <esc>
 
 Moving into insert mode in order to add character "2" to "index", then <exc> in order to exit insert mode back to normal mode.
 
