@@ -44,7 +44,7 @@ Moving cursor up to the correct line number, then moving to the end of the first
 
 ![Image](lab4/lab4p8.jpg)
 
-Keys Pressed: "i", "2", <esc>
+Keys Pressed: "i", "2", <ESC>
 
 Moving into insert mode in order to add character "2" to "index", then <exc> in order to exit insert mode back to normal mode.
 
