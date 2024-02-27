@@ -2,7 +2,7 @@
 
 ![Image](lab4/lab4p1.jpg)
 
-Keys Pressed: `ssh cll017@ieng6-201.ucsd.edu`, `Enter`
+Keys Pressed: `ssh cll017@ieng6-201.ucsd.edu`, `<Enter>`
 
 Used `ssh` command to log into UCSD 201 server (did ieng6-201 because ieng6 would have entered me into the buggy 203 server)
 
