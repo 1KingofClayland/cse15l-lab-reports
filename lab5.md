@@ -15,8 +15,9 @@ Could you possibly explain when the `index1` and `index2` should be incremented?
 I realized when looking back at my code that there was an error to how `index1` and `index2` is incremented after one of them has reached its max value. The ">" sign in both while loops should be changed to a "<". The change of this sign allows the `index1` and `index2` to correctly increment and ensure the insertion of remaining elements in either `list1` or `list2` into `result`.
 
 ### Setup Information
-I used the setup from the week 6 lab. For the bugged ListExamples.java: [Link](https://github.com/1KingofClayland/list-methods-corrected). 
-The rest of the file contents are the same as the files found in: [Link](https://github.com/ucsd-cse15l-s23/list-examples-grader).
+I used the setup from the week 6 lab. For the bugged ListExamples.java: [](https://github.com/1KingofClayland/list-methods-corrected).
+
+The rest of the file contents are the same as the files found in: [](https://github.com/ucsd-cse15l-s23/list-examples-grader).
 
 - grading-area
   - ListExamples.java
