@@ -4,6 +4,7 @@
 ### Original Post
 ![Image](lab5/p1.jpg)
 ![Image](lab5/p2.jpg)
+
 I am getting an error in my code where "d" is not added as an element of `result` for one of my tests where `list1` is `["a","b","c"]` and `list2` is `["a","d"]`. This likely has something to do with how `index2` is incremented in one of the while loops because of the differing lengths of `list1` and `list2`.
 
 ### TA Response
@@ -12,6 +13,7 @@ Could you possibly explain when the `index1` and `index2` should be incremented?
 ### Result
 ![Image](lab5/p3.jpg)
 ![Image](lab5/p4.jpg)
+
 I realized when looking back at my code that there was an error to how `index1` and `index2` is incremented after one of them has reached its max value. The ">" sign in both while loops should be changed to a "<". The change of this sign allows the `index1` and `index2` to correctly increment and ensure the insertion of remaining elements in either `list1` or `list2` into `result`.
 
 ### Setup Information
